@@ -7,6 +7,7 @@ public class BuggyUtilClient {
                 ", last = " + "\"Flannery\"");
         System.out.println("Out: " +
         StringUtils.makePurdueUsername("Sean", "Flannery"));
+        //testing intellij's ability to push!
     }
 }
 
